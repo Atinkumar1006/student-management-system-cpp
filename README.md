@@ -25,5 +25,6 @@ A menu-driven program written in C++ that manages student records using binary f
    ./student
 
 ## 📷 Sample Output
+![Program Output](output.png)
+<img width="673" height="824" alt="output png" src="https://github.com/user-attachments/assets/a7a56ea8-c0d9-4489-b686-b16d0bcae866" />
 
-(You will add screenshot later)
